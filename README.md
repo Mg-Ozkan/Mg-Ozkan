@@ -1,14 +1,10 @@
-<div style="text-align: center">
-  <img width="100%" src="./assets/banner.png" />
-</div>
-
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
   I'm Gökhan, a 38 year old .NET developer from the Netherlands
 </p>
 <p align="center">
-  👀 Into Fullstack-Development & DevOps - ♥️ In love with .NET ecosysteem
+  👀 Into Fullstack development & DevOps - ♥️ In love with .NET ecosystem.
 </p>
 <p align="center">
   🚀 Dealing a lot with Azure auth - feel free to ask. I am glad if I can help.
@@ -24,6 +20,9 @@
     src="./assets/me.png"
   />
 </div>
+
+<br />
+<h1 align="center"> </h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
