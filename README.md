@@ -1,16 +1,26 @@
-### Hi there 👋
+<div style="text-align: center">
+  <img width="100%" src="./assets/banner.png" />
+</div>
 
-<!--
-**Mg-Ozkan/Mg-Ozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm Gökhan, a 38 year old C# developer from the Netherlands TR NL
+</p>
+<p align="center">
+  👀 Into Fullstack-Development & DevOps - ♥️ In love with .NET ecosysteem
+</p>
+<p align="center">
+  🚀 Dealing a lot with Azure auth - feel free to ask. I am glad if I can help.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+  <img
+    width="200"
+    style="margin-right: 100px"
+    align="center"
+    src="./assets/me.png"
+  />
+</div>
