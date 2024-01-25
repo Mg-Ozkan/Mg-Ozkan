@@ -5,7 +5,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  I'm Gökhan, a 38 year old C# developer from the Netherlands TR NL
+  I'm Gökhan, a 38 year old C# developer from the Netherlands
 </p>
 <p align="center">
   👀 Into Fullstack-Development & DevOps - ♥️ In love with .NET ecosysteem
