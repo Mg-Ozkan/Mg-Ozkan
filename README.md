@@ -7,7 +7,7 @@
   👀 Into Fullstack development & DevOps - ♥️ In love with .NET ecosystem.
 </p>
 <p align="center">
-  🚀 Dealing a lot with Azure auth - feel free to ask. I am glad if I can help.
+  🚀 Dealing a lot with Azure - feel free to ask. I am glad if I can help.
 </p>
 
 <br />
